@@ -42,7 +42,7 @@ __switch_threads:
 	retq
 ```
 ## Ее интеграция в код на С   
-```
+```C
 #include <assert.h>
 #include <stddef.h>
 #include <stdint.h>
